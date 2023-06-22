@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: fed1d222-2e78-480b-ac7b-e87be0b17eeb
-  WEBAPP-NAME: az400-webapp-eshoponweb
+  WEBAPP-NAME: az400-webapp-myeshopwebapp
 
 
 jobs:
